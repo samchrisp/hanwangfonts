@@ -1,4 +1,4 @@
-# hanwangfonts
+# Han Wang Zhuyin Fonts
 
 This project is an archive of the free HanWang font family, Chinese (Unicode) TrueType fonts by Dr. Hann-Tzong Wang.
 
